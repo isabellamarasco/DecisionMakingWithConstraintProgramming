@@ -1,0 +1,24 @@
+{
+    "openFiles": [
+        "puzzle/puzzle.mzn",
+        "nqueens/nqueens_alldiff.mzn",
+        "nqueens/nqueens_alldiffsym.mzn",
+        "nqueens/nqueens_r.mzn",
+        "nqueens/nqueens_rc.mzn",
+        "nqueens/nqueens_rc2.mzn",
+        "nqueens/nqueens_rc3.mzn"
+    ],
+    "openTab": 6,
+    "projectFiles": [
+        "nqueens/nqueens_alldiff.mzn",
+        "nqueens/nqueens_alldiffsym.mzn",
+        "nqueens/nqueens_r.mzn",
+        "nqueens/nqueens_rc.mzn",
+        "nqueens/nqueens_rc2.mzn",
+        "nqueens/nqueens_rc3.mzn",
+        "puzzle/puzzle.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
