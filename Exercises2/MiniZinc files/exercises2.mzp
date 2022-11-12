@@ -1,0 +1,20 @@
+{
+    "openFiles": [
+        "nqueens/nqueens.mzn",
+        "poster/19x19.dzn",
+        "poster/20x20.dzn",
+        "poster/poster.mzn",
+        "puzzle/puzzle.mzn"
+    ],
+    "openTab": 4,
+    "projectFiles": [
+        "nqueens/nqueens.mzn",
+        "poster/19x19.dzn",
+        "poster/20x20.dzn",
+        "poster/poster.mzn",
+        "puzzle/puzzle.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
