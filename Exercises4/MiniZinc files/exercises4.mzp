@@ -1,0 +1,24 @@
+{
+    "openFiles": [
+        "jsp/jobshop.mzn",
+        "jsp/jobshop1.dzn",
+        "jsp/jobshop2.dzn",
+        "rcpsp/rcpsp.mzn",
+        "rcpsp/rcpspData1.dzn",
+        "rcpsp/rcpspData2.dzn",
+        "rcpsp/rcpspData3.dzn"
+    ],
+    "openTab": 6,
+    "projectFiles": [
+        "jsp/jobshop.mzn",
+        "jsp/jobshop1.dzn",
+        "jsp/jobshop2.dzn",
+        "rcpsp/rcpsp.mzn",
+        "rcpsp/rcpspData1.dzn",
+        "rcpsp/rcpspData2.dzn",
+        "rcpsp/rcpspData3.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
